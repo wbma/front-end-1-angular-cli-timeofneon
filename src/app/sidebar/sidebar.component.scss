@@ -1,0 +1,28 @@
+:host{
+  width: 30%;
+  height: inherit;
+  background: lightblue;
+  margin: 3% 2% 3% 0;
+}
+.sidebar{
+  margin-left: 30%;
+  font: 180% Calibri, sans-serif;
+}
+ul{
+  list-style-type: none;
+  margin: auto;
+}
+li{
+  margin:auto;
+  padding-top: 3%;
+}
+li a{
+  color: white;
+  text-decoration: none;
+}
+.mainList{
+  padding-left: 0%;
+}
+p{
+  margin: 15% 0 0 -20%;
+}
